@@ -1,0 +1,106 @@
+[
+  {
+    "seedKey": "att-1",
+    "title": "Minimum attendance requirement",
+    "description": "Students are expected to maintain the minimum attendance set by the college in each subject. Students below the requirement may be barred from end-semester examinations. Check with the Academic Office for the current threshold.",
+    "category": "attendance",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "att-2",
+    "title": "Marking attendance for new students",
+    "description": "Attendance is recorded for every scheduled lecture and practical. Missed classes should be discussed with your class coordinator so that your attendance record stays accurate.",
+    "category": "attendance",
+    "audience": "new-students",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "leave-1",
+    "title": "Applying for leave",
+    "description": "Leave must be requested in advance using the leave form available at the Academic Office. Medical leave requires a supporting document, which should be submitted when you return to campus.",
+    "category": "leave",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "hostel-1",
+    "title": "Hostel entry and curfew timings",
+    "description": "Hostel gates close at the time displayed on the notice board at the hostel entrance. Residents returning after closing time must sign the late register and inform the warden on duty.",
+    "category": "hostel",
+    "audience": "hostel-residents",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "hostel-2",
+    "title": "Visitors in hostel",
+    "description": "Visitors are allowed only in the designated visitors area and must be registered at the hostel reception. Overnight stays by visitors are not permitted.",
+    "category": "hostel",
+    "audience": "hostel-residents",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "lib-1",
+    "title": "Library borrowing and returns",
+    "description": "Students may borrow books using their student ID card. Books must be returned by the due date shown on the issue slip. Overdue books attract a fine as per the library policy.",
+    "category": "library",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "lib-2",
+    "title": "Library conduct",
+    "description": "Maintain silence in the reading halls, keep mobile phones on silent, and do not remove reference books from the reading section without issuing them at the desk.",
+    "category": "library",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "id-1",
+    "title": "Student ID card",
+    "description": "Your student ID card must be worn visibly on campus and is required for library issue, examinations and hostel entry. If your card is lost, report it to the ID Card Section to request a replacement.",
+    "category": "id-cards",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "exam-1",
+    "title": "Examination guidelines",
+    "description": "Carry your ID card and hall ticket to every examination. Electronic devices are not allowed in the examination hall. Students arriving late may not be permitted to enter the hall.",
+    "category": "examinations",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "exam-2",
+    "title": "Revaluation and results",
+    "description": "Results are published on the official notice board and student portal. Applications for revaluation must be submitted to the Examination Cell within the window announced with the results.",
+    "category": "examinations",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "disc-1",
+    "title": "Code of conduct",
+    "description": "Students are expected to behave respectfully towards faculty, staff and peers. Ragging is strictly prohibited and will be dealt with under the anti-ragging policy. Dress code guidelines apply on campus.",
+    "category": "discipline",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "schol-1",
+    "title": "Scholarships and financial support",
+    "description": "Merit-based and need-based scholarships are available. Eligibility, application windows and required documents are published by the Student Support and Scholarship Cell each year.",
+    "category": "scholarships",
+    "audience": "all",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "seedKey": "gen-1",
+    "title": "Orientation for new students",
+    "description": "Newcomers should attend the orientation session in the first week. The session covers campus facilities, rules, and the offices you can contact for help.",
+    "category": "general",
+    "audience": "new-students",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
